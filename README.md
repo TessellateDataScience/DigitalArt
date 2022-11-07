@@ -1,5 +1,5 @@
 # Summary of program
-Tesselate Data Science would like to offer a learning program that is run as an adjunct to school-based learning, aimed at learners in years 10 to 12. This program will include the development of computer programming skills and application of these skills to producing a product or service that helps address a social problem. Themes covered in the program include: computational science, teamwork and collaboration, and social entrepreneurship.
+Tesselate Data Science would like to offer a learning program that is run as an adjunct to school-based learning, aimed at learners in Year 10 to 12. This program will include the development of computer programming skills and application of these skills to producing a product or service that helps address a social problem. Themes covered in the program include: computational science, teamwork and collaboration, and social entrepreneurship.
 
 # Program evaluation and development approach
 Prior to offering the program we will evaluate it to ensure it is effective, against various metrics (to be determined). We will develop the program in consultation with a range of expertise from computer science, teaching, and business. We will develop the program using an iterative approach using 'design thinking' as a reference point.
